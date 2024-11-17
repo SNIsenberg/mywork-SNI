@@ -12,6 +12,8 @@
 - Usage
 - Some other ***interesting markdown language feature***
 
+Now I am adding something to this from a branch
+
 ## Author
 ##### Sara Nechama Isenberg
 
