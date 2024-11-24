@@ -1,0 +1,27 @@
+h1 {
+    color: indigo;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    border-style: dashed;
+}
+.myList:hover{
+    color:cadetblue;
+    cursor: pointer;
+}
+.myList {
+    margin: 5px;
+}
+div {
+    border-style: double;
+    border-color: darkslateblue;
+    background-image: linear-gradient(to right, white, red, gold, aqua, purple, pink, silver);
+    padding: 15px;
+}
+img {
+    margin: 20px;
+}
+.myClass {
+    font-style: oblique;
+    border-width: 3pt;
+}
