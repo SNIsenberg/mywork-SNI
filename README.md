@@ -3,9 +3,11 @@
 
 ## Homework!
 
-This repository now contains my HTML and CSS files that I made for a homework project a little while ago. The HTML file contains a heading and a list of the requirements for that homework assignment, among a few other things. The CSS stylesheet makes it look more interesting by adding colors, space, borders, and font styles to the text, and putting a rainbow background behind some of it.
+This is my repository for doing and uploading my homework
 
-Let's add a pull request!
+
+If I add a line or two here, it will make a conflict.
+But I can resolve it and then my pull request will be able to merge.
 
 ## Author
 ##### Sara Nechama Isenberg
