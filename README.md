@@ -3,16 +3,10 @@
 
 ## Homework!
 
-### List of Requirements for this README File:
+This is my repository for doing/submitting homework
 
-- Title
-- Subtitle
-- List
-- Author
-- Usage
-- Some other ***interesting markdown language feature***
-
-Now I am adding something to this from a branch
+If I add a line or two here, it will make a conflict.
+Then my pull request will not be able to merge.
 
 ## Author
 ##### Sara Nechama Isenberg
