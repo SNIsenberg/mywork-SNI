@@ -1,0 +1,17 @@
+
+table {
+    border: solid 2pt black;
+    border-collapse: collapse;
+}
+th, td {
+    border: solid 1pt black;
+    padding: 10pt;
+    background-color: mintcream;
+    text-align: center;
+}
+th {
+    border: solid 2pt black
+}
+form {
+    padding: 10pt
+}
