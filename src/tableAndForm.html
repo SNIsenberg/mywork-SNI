@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="tableAndForm.css">
+        <title>Homework - Table and Form</title>
+    </head>
+    <body>
+        <h1>My Table and Form Homework</h1>
+        <p>Here is a table:</p>
+        <table>
+            <tr>
+                <th>This is my First Heading</th>
+                <th>This is my Second Heading</th>
+                <th>This is my Third Heading</th>
+            </tr>
+            <tr>
+                <td rowspan="3">First Item</td>
+                <td>Second Item</td>
+                <td>Third Item</td>
+            </tr>
+            <tr>
+                <td colspan="2">Second Item</td>
+            </tr>
+            <tr>
+                <td>Second Item</td>
+                <td>Third Item</td>
+            </tr>
+            <tr>
+                <td>First Item</td>
+                <td>Second Item</td>
+                <td>Third Item</td>
+            </tr>
+        </table>
+        <p>Here is a form:</p>
+        <form method="post" action="https://webhook.site/129689e3-8787-442f-871f-50276a8a9eeb">
+            <p>
+                <label>Name:</label>
+                <input type="text" name="Name">
+            </p>
+            <p>
+                <label>Choice:</label>
+                <select name="choice">
+                    <option>Choose an option</option>
+                    <option>Option 1</option>
+                    <option>Option 2</option>
+                    <option>Option 3</option>
+                </select>
+            </p>
+            <p>On a scale of 1-10, rate my creativity with element names in this assignment:</p>
+            <p>
+                1
+                <input type="range" min="1" max="10" name="creativity">
+                10
+            </p>
+
+            <input type="submit">
+        </form>
+    </body>
+</html>
